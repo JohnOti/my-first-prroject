@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+h1,h2{
+    text-align: center;
+    color: blue;
+}
+p{
+    justify-content: center;
+    text-align: center;
+    color: whitesmoke;
+    display: flex;
+}
+.doordash img{
+    width: 25%;
+    height: 200px;
+    padding: 1%;
+    justify-content: center;
+    float: left;
+}
+ .pizza-inn img{
+    display: inline-flex;
+    float: left;
+    width: 25%;
+}
